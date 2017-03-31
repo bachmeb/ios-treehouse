@@ -27,3 +27,26 @@
   * Branches
   * Last commit of branch is tip
   * Difference between commits is diff
+
+### Giting up and running
+* https://teamtreehouse.com/library/giting-up-and-running
+  * Create a GitHub account
+  * Create a new repo
+  * Configure global email and username from OSX command line
+  * Open Xcode
+    * Welcome to Xcode
+      * Create a new Xcode project
+    * Choose a template for your new project
+      * Single View Application
+    * Choose options for your new project:
+      * Product name: whatever
+      * Organization name: 
+      * Organization identifier: 
+      * Bundle identifier: 
+      * Language: Swift
+      * Devices: Universal
+      * Use Core Data: NO
+      * Include Unit Tests: YES
+      * Include UI Tests: YES
+    * Choose a location for your project
+      * Create Git repository on [My Mac]: YES
