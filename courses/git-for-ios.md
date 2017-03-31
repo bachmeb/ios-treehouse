@@ -52,3 +52,8 @@
       * Location: Desktop
       * Source Control: YES
       * Create Git repository on: My Mac
+   * Main.storyboard
+     * View Controller
+       * View
+         * Background Color: Dark Grey
+   
