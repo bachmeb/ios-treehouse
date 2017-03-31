@@ -20,3 +20,10 @@
 * https://teamtreehouse.com/library/giting-the-hang-of-it
   * Repos can be public or private
   * Clone the repo
+  * Commit
+  * Push to remote repo
+  * Pull from remote repo
+  * Merge happens during pull
+  * Branches
+  * Last commit of branch is tip
+  * Difference between commits is diff
