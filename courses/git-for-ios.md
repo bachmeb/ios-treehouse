@@ -62,4 +62,9 @@
 ```swift
 let userName = "dummy username"
 ```
-   
+
+#### Commit
+* Source Control
+  * Commit 
+    * Type in commit message
+    * Commit 3 Files
