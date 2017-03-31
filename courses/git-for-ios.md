@@ -52,11 +52,13 @@
       * Location: Desktop
       * Source Control: YES
       * Create Git repository on: My Mac
-   * Main.storyboard
+ 
+#### Configure Main.storyboard
      * View Controller
        * View
          * Background Color: Dark Grey
-   * ViewController.swift
+         
+#### Edit ViewController.swift
 ```swift
 let userName = "dummy username"
 ```
