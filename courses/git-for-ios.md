@@ -56,4 +56,8 @@
      * View Controller
        * View
          * Background Color: Dark Grey
+   * ViewController.swift
+```swift
+let userName = "dummy username"
+```
    
