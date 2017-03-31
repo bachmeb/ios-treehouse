@@ -6,6 +6,9 @@
 ## Summary
 * A video of a guy reading an introduction to Git
 
+## Difficulty
+* Really basic
+
 ### Gitting the lay of the land
 * https://teamtreehouse.com/library/giting-the-lay-of-the-land
   * What is Git?
