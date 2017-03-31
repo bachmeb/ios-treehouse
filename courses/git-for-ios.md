@@ -49,4 +49,6 @@
       * Include Unit Tests: YES
       * Include UI Tests: YES
     * Choose a location for your project
-      * Create Git repository on [My Mac]: YES
+      * Location: Desktop
+      * Source Control: YES
+      * Create Git repository on: My Mac
