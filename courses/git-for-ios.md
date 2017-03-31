@@ -16,3 +16,7 @@
   * Why use a VCS?
   * Git is distributed
   
+### Gitting the hang of it
+* https://teamtreehouse.com/library/giting-the-hang-of-it
+  * Repos can be public or private
+  * Clone the repo
