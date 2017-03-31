@@ -54,9 +54,9 @@
       * Create Git repository on: My Mac
  
 #### Configure Main.storyboard
-     * View Controller
-       * View
-         * Background Color: Dark Grey
+* View Controller
+  * View
+    * Background Color: Dark Grey
          
 #### Edit ViewController.swift
 ```swift
